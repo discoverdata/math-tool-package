@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "math-tools"
+version = "0.1"
+description = "A math tools library and CLI for arthemetic and statistics."
+authors = [{ name = "Varun Khanna", email = "imvarun9@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = []
